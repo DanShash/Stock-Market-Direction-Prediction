@@ -1,4 +1,4 @@
-#Stock Market Direction Prediction using Machine Learning
+# Stock Market Direction Prediction using Machine Learning
 
 ## Overview
 
