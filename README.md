@@ -24,7 +24,7 @@ The goal is **not algorithmic trading**, but to study how machine learning model
 
 ### Source
 
-Historical daily stock market data containing **505 publicly traded companies**.
+Historical daily stock market data containing **505 publicly traded companies**. [https://www.kaggle.com/datasets/camnugent/sandp500]
 
 ### Time Range
 
